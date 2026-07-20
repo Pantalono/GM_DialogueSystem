@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"speaker_settings",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"speaker_settings",
+  "parent":{
+    "name":"Dialogue",
+    "path":"folders/DialoguePlugin/Dialogue.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
